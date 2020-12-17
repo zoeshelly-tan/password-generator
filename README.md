@@ -1,5 +1,4 @@
 # password-generator
-# Set up Password Generator 
 
 The purpose of the web page is when the user would like to a generate a random number of password and the page will provide them with the desire content and length.  
 
